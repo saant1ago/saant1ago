@@ -23,5 +23,8 @@ Soy estudiante de **Ciencia de Datos y Matemáticas**, apasionado por resolver p
 
 ## 📎 Proyectos destacados
 
-- 🔗 [Impacto de factores no antropogénicos en los niveles de contaminación del aire](link) — análisis de datos y visualización.
-- 🔗 [Análisis topológico aplicado al fútbol](link) — homología persistente para perfiles de jugadores.
+- 🔗 [Impacto de factores no antropogénicos en los niveles de contaminación del aire](https://github.com/saant1ago/Impacto-de-factores-no-antropog-nicos-en-los-niveles-de-contaminacion-del-aire.git) — análisis de datos y visualización.
+- 🔗 [Aprendizaje supervisado y no supervisado](https://github.com/saant1ago/Implementacion_de_IA.git) — modelos de machine learning aplicados a clasificación y clustering.
+- 🔗 [Optimización del transporte en la logística de reforestación](https://github.com/saant1ago/Optimizacion_de_Reforestacion.git) — heurísticas para ruteo y programación de reforestación.
+- 🔗 [Reprogramación de pedidos con Streamlit](https://github.com/saant1ago/Reprogramacion_de_Scheduling.git) — simulación y optimización de pedidos en línea usando Streamlit.
+

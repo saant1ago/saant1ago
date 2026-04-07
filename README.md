@@ -1,30 +1,46 @@
-# 👋 ¡Hola, soy Santiago Juárez Roaro!
+## Hi, I'm Santiago Juárez Roaro 👋
 
-Soy estudiante de **Ciencia de Datos y Matemáticas**, apasionado por resolver problemas usando datos, matemáticas y programación. Me encanta aprender nuevas tecnologías, compartir lo que descubro y trabajar en proyectos con impacto real.
+**Data Science & Math Engineer · Monterrey, Mexico**
 
-## 🚀 Sobre mí
+Final-year Data Science & Mathematics student at Tecnológico de Monterrey (GPA 95.4 · Academic Scholarship). Currently working at **Linde** building Power Apps, Power BI dashboards, and automation workflows. I work across the full data pipeline — from ETL and exploratory analysis to predictive modeling and deployment.
 
-- 🔭 Actualmente trabajando en: proyectos de análisis topológico, optimización y modelos de machine learning.
-- 🌱 Aprendiendo sobre: topología aplicada, optimización avanzada y visualización de datos.
-- 💬 Pregúntame sobre: Python, análisis de datos, machine learning, Power Automate, Power Apps, Power Bi.
-- 📫 Cómo contactarme: [santiagoj2454@gmial.com] | [A01705439@tec.mx].
+---
 
-## 💻 Tecnologías y herramientas
+### 🔭 What I'm working on
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoft&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+- Electronic signature adoption dashboard (Power BI + DAX) at Linde
+- Driver license management app (Power Apps + SharePoint)
+- ML models for classification, optimization & simulation
 
-## 📈 GitHub Stats
+---
 
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=saant1ago&show_icons=true&theme=radical)
+### 🛠️ Tech stack
 
-## 📎 Proyectos destacados
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-- 🔗 [Impacto de factores no antropogénicos en los niveles de contaminación del aire](https://github.com/saant1ago/Impacto-de-factores-no-antropog-nicos-en-los-niveles-de-contaminacion-del-aire.git) — análisis de datos y visualización.
-- 🔗 [Aprendizaje supervisado y no supervisado](https://github.com/saant1ago/Implementacion_de_IA.git) — modelos de machine learning aplicados a clasificación y clustering.
-- 🔗 [Optimización del transporte en la logística de reforestación](https://github.com/saant1ago/Optimizacion_de_Reforestacion.git) — heurísticas para ruteo y programación de reforestación.
-- 🔗 [Reprogramación de pedidos con Streamlit](https://github.com/saant1ago/Reprogramacion_de_Scheduling.git) — simulación y optimización de pedidos en línea usando Streamlit.
+---
 
+### 📌 Featured projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [ML Classification & Clustering](https://github.com/saant1ago/Implementacion_de_IA) | Obesity prediction, k-means, DBSCAN, PCA | scikit-learn, pandas |
+| [Air Quality ML Analysis](https://github.com/saant1ago/Impacto-de-factores-no-antropog-nicos-en-los-niveles-de-contaminacion-del-aire) | Neural networks, EDA, air pollution forecasting | Python, matplotlib |
+| [Scheduling Optimization App](https://github.com/saant1ago/Reprogramacion_de_Scheduling) | Poisson simulation, Gantt chart, Streamlit app | Streamlit, Plotly |
+| [Reforestation Logistics](https://github.com/saant1ago/Optimizacion_de_Reforestacion) | Linear programming, A* heuristics · CONAFOR | Python |
+
+---
+
+### 📬 Contact
+
+- 📧 santiagoj2454@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-juárez-roaro)

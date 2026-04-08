@@ -1,5 +1,4 @@
 ## Hi, I'm Santiago Juárez Roaro 👋
-
 **Data Science & Math Engineer · Monterrey, Mexico**
 
 Final-year Data Science & Mathematics student at Tecnológico de Monterrey (GPA 95.4 · Academic Scholarship). Currently working at **Linde** building Power Apps, Power BI dashboards, and automation workflows. I work across the full data pipeline — from ETL and exploratory analysis to predictive modeling and deployment.
@@ -37,10 +36,11 @@ Final-year Data Science & Mathematics student at Tecnológico de Monterrey (GPA 
 | [Air Quality ML Analysis](https://github.com/saant1ago/Impacto-de-factores-no-antropog-nicos-en-los-niveles-de-contaminacion-del-aire) | Neural networks, EDA, air pollution forecasting | Python, matplotlib |
 | [Scheduling Optimization App](https://github.com/saant1ago/Reprogramacion_de_Scheduling) | Poisson simulation, Gantt chart, Streamlit app | Streamlit, Plotly |
 | [Reforestation Logistics](https://github.com/saant1ago/Optimizacion_de_Reforestacion) | Linear programming, A* heuristics · CONAFOR | Python |
+| [Causal Freight Optimization](https://github.com/saant1ago/causal-freight-optimization) | Causal Forest + SHAP to quantify $1.52M MXN/yr subcarga cost at Ternium (10,900 trips) | econml, scikit-learn, shap |
 
 ---
 
 ### 📬 Contact
 
 - 📧 santiagoj2454@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-juárez-roaro)
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-juarez-roaro-a42941304)
